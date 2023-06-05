@@ -1,0 +1,12 @@
+.list-item-cont {
+  list-style-type: none;
+  margin-right: 10px;
+}
+.img {
+  width: 200px;
+}
+.heading {
+  font-family: 'roboto';
+  font-size: 13px;
+  color: #0f172a;
+}

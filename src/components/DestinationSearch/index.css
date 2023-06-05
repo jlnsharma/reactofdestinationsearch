@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.main {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.searchImg {
+  width: 28px;
+}
+.searchCont {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #f1f5f9;
+  width: 220px;
+  height: 40px;
+  padding: 5px;
+  border-radius: 10px;
+}
+.inputBox {
+  border: #f1f5f9 solid;
+  background-color: #f1f5f9;
+}
+.list-Cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 500px;
+}
